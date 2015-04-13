@@ -25,7 +25,7 @@ In this project I combine the crime records of the city of Chicago from 2014 wit
 
 Results:
 --------
-I plotted the schools as a function of the number of nearby crimes as a histogram, and I created a map of the schools around Chicago. The color of the markers indicates the number of crimes nearby, and labels show the exact number.
+I plotted the schools as a function of the number of nearby crimes as a histogram (Hist_schools_w_number_of_crimes.pdf), and I created a map (crime_near_schools.kml) of the schools around Chicago. The color of the markers indicates the number of crimes nearby, and labels show the exact number. (the map can be viewd here: https://www.google.com/maps/d/edit?mid=z0f0NmLaLfg0.kZIHoM3mJsnk)
 
 Outlook:
 --------
