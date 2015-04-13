@@ -1,0 +1,5518 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+	<Document>
+		<name>Number of crimes close to schools in Chicago, in 2014</name>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>ACE TECHNICAL CHTR HS (5410 S State St)</name>
+			<description><![CDATA[366 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6258490371,41.796121509,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>ADDAMS (10810 S Avenue H)</name>
+			<description><![CDATA[105 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5329760419,41.6987387993,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>AGASSIZ (2851 N Seminary Ave)</name>
+			<description><![CDATA[297 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6562286679,41.9341262972,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>AIR FORCE HS (3630 S Wells St)</name>
+			<description><![CDATA[264 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6327569828,41.8281453217,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-0</styleUrl>
+			<name>ALBANY PARK (4929 N Sawyer Ave)</name>
+			<description><![CDATA[24 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7106087883,41.971504443,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>ALCOTT ES (2625 N Orchard St)</name>
+			<description><![CDATA[411 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6464131369,41.9298498517,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>ALCOTT PREP HS (2957 N Hoyne Ave)</name>
+			<description><![CDATA[106 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6805620129,41.9357945554,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>ALDRIDGE (630 E 131st St)</name>
+			<description><![CDATA[364 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6064738472,41.6574049695,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1</styleUrl>
+			<name>AMANDLA CHTR HS (6800 S Stewart Ave)</name>
+			<description><![CDATA[35 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6354715693,41.770802254,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>AMUNDSEN HS (5110 N Damen Ave)</name>
+			<description><![CDATA[109 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6794842151,41.9750672561,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>ARIEL (1119 E 46th St)</name>
+			<description><![CDATA[177 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5975029314,41.8111734613,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>ARMOUR (950 W 33rd Pl)</name>
+			<description><![CDATA[294 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6506531559,41.833853909,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>ARMSTRONG G (2110 W Greenleaf Ave)</name>
+			<description><![CDATA[164 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6844418272,42.0101499835,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>ASHBURN (8300 S St Louis Ave)</name>
+			<description><![CDATA[59 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7096096819,41.7423505663,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>ASHE (8505 S Ingleside Ave)</name>
+			<description><![CDATA[294 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6011744082,41.7401837905,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>ASIAN HUMAN SERVICES CHTR  PASSAGES (1643 W Bryn Mawr Ave)</name>
+			<description><![CDATA[127 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6711604196,41.9833714355,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>ASPIRA CHTR  EARLY COLLEGE HS (3986 W Barry Ave)</name>
+			<description><![CDATA[178 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7271371545,41.9372961215,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>ASPIRA CHTR  HAUGAN (3729 W Leland Ave)</name>
+			<description><![CDATA[236 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7218246656,41.9664056672,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>ASPIRA CHTR  RAMIREZ HS (1711 N California Ave)</name>
+			<description><![CDATA[139 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6955218301,41.9124976066,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>ATTUCKS (5055 S State St)</name>
+			<description><![CDATA[221 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6257833861,41.8021126059,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>AUDUBON (3500 N Hoyne Ave)</name>
+			<description><![CDATA[125 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6810410533,41.9450622241,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>AUSTIN BUS  ENTRP HS (231 N Pine Ave)</name>
+			<description><![CDATA[192 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7618910169,41.8842046712,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>AUSTIN POLY HS (231 N Pine Ave)</name>
+			<description><![CDATA[109 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7619089499,41.8851229432,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>AVALON PARK (8045 S Kenwood Ave)</name>
+			<description><![CDATA[311 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5916538107,41.7482469935,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>AZUELA (4707 W Marquette Rd)</name>
+			<description><![CDATA[68 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7399202335,41.7710790721,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>BACK OF THE YARDS HS (2111 W 47th St)</name>
+			<description><![CDATA[115 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6775413678,41.8084125427,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>BANNER ACADEMY WEST HS (5035 W North Ave)</name>
+			<description><![CDATA[431 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7523911674,41.9094619357,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>BARNARD (10354 S Charles St)</name>
+			<description><![CDATA[58 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6580742242,41.7051310108,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>BARRY (2828 N Kilbourn Ave)</name>
+			<description><![CDATA[325 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7393883513,41.9325105826,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>BARTON (7650 S Wolcott Ave)</name>
+			<description><![CDATA[260 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6709271289,41.7541938496,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>BASS (1140 W 66th St)</name>
+			<description><![CDATA[387 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6535324197,41.77424645,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>BATEMAN (4220 N Richmond St)</name>
+			<description><![CDATA[152 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7021509622,41.9582198384,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1</styleUrl>
+			<name>BEARD (6445 W Strong St)</name>
+			<description><![CDATA[38 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7896303313,41.9701248819,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>BEASLEY (5255 S State St)</name>
+			<description><![CDATA[92 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6256915787,41.7984649593,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>BEAUBIEN (5025 N Laramie Ave)</name>
+			<description><![CDATA[88 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7575650395,41.9723939442,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>BEETHOVEN (25 W 47th St)</name>
+			<description><![CDATA[171 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6271368053,41.809134757,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>BEIDLER (3151 W Walnut St)</name>
+			<description><![CDATA[422 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7058548125,41.8853210395,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>BELDING (4257 N Tripp Ave)</name>
+			<description><![CDATA[122 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7340197291,41.9589384932,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>BELL (3730 N Oakley Ave)</name>
+			<description><![CDATA[132 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6860182445,41.9495297981,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>BELMONTCRAGIN (5252 W Palmer St)</name>
+			<description><![CDATA[131 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7568429035,41.9201500461,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>BENNETT (10115 S Prairie Ave)</name>
+			<description><![CDATA[269 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6173904557,41.7104349487,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>BLACK (9101 S Euclid Ave)</name>
+			<description><![CDATA[94 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5766429513,41.7296923608,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>BLAINE (1420 W Grace St)</name>
+			<description><![CDATA[159 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6649678443,41.9507805178,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>BLAIR (6751 W 63rd Pl)</name>
+			<description><![CDATA[71 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7906044249,41.7765562692,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>BOGAN HS (3939 W 79th St)</name>
+			<description><![CDATA[130 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7210974458,41.7493756091,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>BOND (7050 S May St)</name>
+			<description><![CDATA[331 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6530177864,41.7653605657,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>BOONE (6710 N Washtenaw Ave)</name>
+			<description><![CDATA[132 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.697462822,42.0034116068,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>BOUCHET (7355 S Jeffery Blvd)</name>
+			<description><![CDATA[339 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5760748577,41.7608474801,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>BOWEN HS (2710 E 89th St)</name>
+			<description><![CDATA[202 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.557550034,41.73462672,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>BRADWELL (7736 S Burnham Ave)</name>
+			<description><![CDATA[664 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5571419705,41.7543651313,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>BRENNEMANN (4251 N Clarendon Ave)</name>
+			<description><![CDATA[255 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6497491648,41.9599841547,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>BRENTANO (2723 N Fairfield Ave)</name>
+			<description><![CDATA[181 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6962941984,41.9309660956,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>BRIDGE (3800 N New England Ave)</name>
+			<description><![CDATA[87 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.79866892,41.9491143858,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>BRIGHT (10740 S Calhoun Ave)</name>
+			<description><![CDATA[257 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5620842294,41.6997262208,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>BRIGHTON PARK (3825 S Washtenaw Ave)</name>
+			<description><![CDATA[140 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6920769295,41.8238999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1</styleUrl>
+			<name>BRONZEVILLE HS (4934 S Wabash Ave)</name>
+			<description><![CDATA[26 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6250044685,41.8052041698,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>BRONZEVILLE LIGHTHOUSE CHTR (8 W Root St)</name>
+			<description><![CDATA[252 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6266218015,41.8192766103,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>BROOKS HS (250 E 111th St)</name>
+			<description><![CDATA[378 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.616352607,41.6927625279,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>BROWN R (12607 S Union Ave)</name>
+			<description><![CDATA[254 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.638957725,41.6648733493,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>BROWN W (54 N Hermitage Ave)</name>
+			<description><![CDATA[128 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6706823911,41.8829967838,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>BROWNELL (6741 S Michigan Ave)</name>
+			<description><![CDATA[458 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6217459686,41.7716203591,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>BRUNSON (932 N Central Ave)</name>
+			<description><![CDATA[519 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7656056579,41.8976625712,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>BUDLONG (2701 W Foster Ave)</name>
+			<description><![CDATA[234 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6965560322,41.9757543298,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>BURBANK (2035 N Mobile Ave)</name>
+			<description><![CDATA[54 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7826995704,41.917598137,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>BURKE (5356 S King Dr)</name>
+			<description><![CDATA[250 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6161405241,41.7967595632,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>BURLEY (1630 W Barry Ave)</name>
+			<description><![CDATA[190 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6698531236,41.9379374733,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>BURNHAM (9928 S Crandon Ave)</name>
+			<description><![CDATA[243 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5671305914,41.7144020619,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>BURNSIDE (650 E 91st Pl)</name>
+			<description><![CDATA[208 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6074353215,41.7284806377,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>BURR (1621 W Wabansia Ave)</name>
+			<description><![CDATA[180 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.668660604,41.9123579075,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>BURROUGHS (3542 S Washtenaw Ave)</name>
+			<description><![CDATA[121 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6924566287,41.8288679067,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>BYRNE (5329 S Oak Park Ave)</name>
+			<description><![CDATA[75 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7915444827,41.7950309643,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>CALDWELL (8546 S Cregier Ave)</name>
+			<description><![CDATA[213 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5807290277,41.7392263547,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>CALMECA (3456 W 38th St)</name>
+			<description><![CDATA[68 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7116536402,41.8243773269,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>CAMELOT SAFE  GARFIELD PARK (241 N. Kolmar Ave)</name>
+			<description><![CDATA[371 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7400596623,41.8843768715,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>CAMELOT SAFE ACADEMY (7877 S Coles Ave)</name>
+			<description><![CDATA[550 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.550199725,41.752698122,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>CAMERON (1234 N Monticello Ave)</name>
+			<description><![CDATA[455 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7179266353,41.9037921174,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>CAMRAS (3000 N Mango Ave)</name>
+			<description><![CDATA[189 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7701272578,41.934930622,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>CANTY (3740 N Panama Ave)</name>
+			<description><![CDATA[62 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.8292957006,41.9480070273,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>CARDENAS (2345 S Millard Ave)</name>
+			<description><![CDATA[240 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7160174071,41.8484877699,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>CARNEGIE (1414 E 61st Pl)</name>
+			<description><![CDATA[221 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5907950088,41.7833683228,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>CARROLL (2929 W 83rd St)</name>
+			<description><![CDATA[74 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6960120755,41.7425166261,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>CARSON (5516 S Maplewood Ave)</name>
+			<description><![CDATA[63 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6877995433,41.7932721435,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-6</styleUrl>
+			<name>CARTER (5740 S Michigan Ave)</name>
+			<description><![CDATA[810 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6224527522,41.7898279046,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1</styleUrl>
+			<name>CARVER MILITARY (13100 S Doty Ave)</name>
+			<description><![CDATA[28 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5906203849,41.6562899508,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>CARVER G (901 E 133rd Pl)</name>
+			<description><![CDATA[118 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5995156323,41.6537021151,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>CASALS (3501 W Potomac Ave)</name>
+			<description><![CDATA[111 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7142336469,41.904502764,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>CASSELL (11314 S Spaulding Ave)</name>
+			<description><![CDATA[52 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7032154885,41.6873470545,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>CASTELLANOS (2524 S Central Park Ave)</name>
+			<description><![CDATA[181 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7149270137,41.8454498785,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>CATALYST CHTR  CIRCLE ROCK (5608 W Washington Blvd)</name>
+			<description><![CDATA[570 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7653219783,41.8823222206,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>CATALYST CHTR  HOWLAND (1616 S Spaulding Ave)</name>
+			<description><![CDATA[203 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7076985188,41.8585532877,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>CATALYST CHTR  MARIA (6727 S California Ave)</name>
+			<description><![CDATA[132 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6930753223,41.7709917182,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>CATHER (2908 W Washington Blvd)</name>
+			<description><![CDATA[497 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6991870086,41.882949924,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>CHALMERS (2745 W Roosevelt Rd)</name>
+			<description><![CDATA[375 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.695259369,41.8664352516,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>CHAPPELL (2135 W Foster Ave)</name>
+			<description><![CDATA[74 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6832635916,41.9758943,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>CHASE (2021 N Point St)</name>
+			<description><![CDATA[253 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6945622511,41.9179926524,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>CHAVEZ (4747 S Marshfield Ave)</name>
+			<description><![CDATA[278 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6660369339,41.8071428303,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>CHGO ACAD HS (3400 N Austin Ave)</name>
+			<description><![CDATA[65 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.776846566,41.9430544902,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1</styleUrl>
+			<name>CHGO AG HS (3857 W 111th St)</name>
+			<description><![CDATA[31 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7177696726,41.6912207413,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>CHGO ARTS CONTR HS (2714 W Augusta Blvd)</name>
+			<description><![CDATA[248 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6949450113,41.8993765727,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>CHGO MATH  SCI ACAD CHTR HS (7212 N Clark St)</name>
+			<description><![CDATA[242 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6748184179,42.0130314891,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>CHGO MILITARY ACAD HS (3519 S Giles Ave)</name>
+			<description><![CDATA[499 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6192155428,41.830554977,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1</styleUrl>
+			<name>CHICAGO ACAD ES (3400 N Austin Ave)</name>
+			<description><![CDATA[44 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7781868032,41.9430559189,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>CHICAGO CHTR COLLEGIATE (11816 S Indiana Ave)</name>
+			<description><![CDATA[285 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6179678712,41.6793184419,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>CHICAGO EXCEL CONTR ACAD (1269 W 111th St)</name>
+			<description><![CDATA[183 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6542479426,41.6919533378,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>CHICAGO TECH ACADEMY (1301 W 14th St)</name>
+			<description><![CDATA[267 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6590948034,41.8633014081,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>CHICAGO VIRTUAL CHTR HS (38 S Peoria St)</name>
+			<description><![CDATA[468 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6497724849,41.8805501115,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>CHICAGO VOCATIONAL HS (2100 E 87th St)</name>
+			<description><![CDATA[212 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5732675156,41.7371739334,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>CHOPIN (2450 W Rice St)</name>
+			<description><![CDATA[221 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6889367623,41.8967126884,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>CHRISTOPHER (5042 S Artesian Ave)</name>
+			<description><![CDATA[227 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6856070028,41.8016586237,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>CHRISTOPHER HOUSE CHTR (5235 W Belden Ave)</name>
+			<description><![CDATA[152 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7575215283,41.9221811559,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>CICS  AVALON  SOUTH SHORE (1501 E 83rd Pl)</name>
+			<description><![CDATA[197 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5879276411,41.7431794199,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>CICS  BASIL (1816 W Garfield Blvd)</name>
+			<description><![CDATA[359 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6702426574,41.7940428632,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>CICS  BUCKTOWN (2235 N Hamilton Ave)</name>
+			<description><![CDATA[170 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6813579646,41.9224146293,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>CICS  CHICAGOQUEST NORTH (1443 N Ogden Ave)</name>
+			<description><![CDATA[129 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6455614992,41.907796795,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>CICS  ELLISON (1817 W 80th St)</name>
+			<description><![CDATA[260 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6689796393,41.7483824078,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>CICS  HAWKINS (801 E 133rd Pl)</name>
+			<description><![CDATA[96 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6018732837,41.6531410567,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>CICS  IRVING PARK (3820 N Spaulding Ave)</name>
+			<description><![CDATA[159 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7104924287,41.9508912743,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>CICS  LLOYD BOND (13300 S Langley Ave)</name>
+			<description><![CDATA[202 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6050391022,41.6536634494,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>CICS  LONGWOOD (1309 W 95th St)</name>
+			<description><![CDATA[114 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6557681329,41.7212214323,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>CICS  LOOMIS (9535 S Loomis St)</name>
+			<description><![CDATA[66 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6575610581,41.7202464227,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1</styleUrl>
+			<name>CICS  NORTHTOWN (3900 W Peterson Ave)</name>
+			<description><![CDATA[28 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7265042644,41.990245011,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>CICS  PRAIRIE (11530 S Prairie Ave)</name>
+			<description><![CDATA[157 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6168883821,41.6844330381,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>CICS  WASHINGTON PARK (6105 S Michigan Ave)</name>
+			<description><![CDATA[399 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6220684545,41.783616846,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>CICS  WEST BELDEN (2245 N McVicker Ave)</name>
+			<description><![CDATA[287 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7767485391,41.9216874947,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>CICS  WRIGHTWOOD (8130 S California Ave)</name>
+			<description><![CDATA[150 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.692614399,41.7453654501,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>CLAREMONT (2300 W 64th St)</name>
+			<description><![CDATA[569 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6810611971,41.7775105073,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>CLARK HS (5101 W Harrison St)</name>
+			<description><![CDATA[254 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7533248719,41.8728850048,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>CLARK G (1045 S Monitor Ave)</name>
+			<description><![CDATA[223 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7704175268,41.8678125675,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>CLAY (13231 S Burley Ave)</name>
+			<description><![CDATA[155 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5446135978,41.654558148,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>CLEMENTE HS (1147 N Western Ave)</name>
+			<description><![CDATA[168 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6869061464,41.9026257912,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>CLEVELAND (3121 W Byron St)</name>
+			<description><![CDATA[196 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7064425256,41.9520421209,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>CLINTON (6110 N Fairfield Ave)</name>
+			<description><![CDATA[311 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6983599546,41.9925413596,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>CLISSOLD (2350 W 110th Pl)</name>
+			<description><![CDATA[118 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6808967872,41.6930260059,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>COLEMON (1441 W 119th St)</name>
+			<description><![CDATA[187 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6581108383,41.6775054462,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>COLES (8441 S Yates Blvd)</name>
+			<description><![CDATA[270 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5659697713,41.7414128065,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>COLLINS HS (1313 S Sacramento Dr)</name>
+			<description><![CDATA[173 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7020415857,41.864148567,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>COLUMBIA EXPLORERS (4520 S Kedzie Ave)</name>
+			<description><![CDATA[204 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7041985906,41.8110686087,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>COLUMBUS (1003 N Leavitt St)</name>
+			<description><![CDATA[164 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6819380494,41.8995657749,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>COMMUNITY CONTR (1239 S Pulaski Rd)</name>
+			<description><![CDATA[241 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7250220202,41.8649522588,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>COOK (8150 S Bishop St)</name>
+			<description><![CDATA[476 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6597745903,41.7452370209,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>COONLEY (4046 N Leavitt St)</name>
+			<description><![CDATA[146 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6837653004,41.9555531942,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>COOPER (1624 W 19th St)</name>
+			<description><![CDATA[211 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6672270843,41.8560311916,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>CORKERY (2510 S Kildare Ave)</name>
+			<description><![CDATA[277 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7311928652,41.8456024217,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1</styleUrl>
+			<name>CORLISS HS (821 E 103rd St)</name>
+			<description><![CDATA[50 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6012158766,41.7066596162,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>COURTENAY (4420 N Beacon St)</name>
+			<description><![CDATA[166 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.663852963,41.9623077715,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>CRANE HS (2245 W Jackson Blvd)</name>
+			<description><![CDATA[75 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6819731621,41.8769422998,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>CRANE MEDICAL PREP HS (2245 W Jackson Blvd)</name>
+			<description><![CDATA[119 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6833013467,41.8769474432,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>CROWN (2128 S Saint Louis Ave)</name>
+			<description><![CDATA[465 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7124701511,41.8526634872,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>CUFFE (8324 S Racine Ave)</name>
+			<description><![CDATA[245 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6536334476,41.7424516266,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>CULLEN (10650 S Eberhart Ave)</name>
+			<description><![CDATA[184 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6112444583,41.700335141,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>CURIE HS (4959 S Archer Ave)</name>
+			<description><![CDATA[253 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7220416549,41.8030602064,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>CURTIS (32 E 115th St)</name>
+			<description><![CDATA[378 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6216526077,41.6854183995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>DALEY (5024 S Wolcott Ave)</name>
+			<description><![CDATA[267 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6722064019,41.8023428674,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>DARWIN (3116 W Belden Ave)</name>
+			<description><![CDATA[231 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7054129132,41.9233227169,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>DAVIS M (6730 S Paulina St)</name>
+			<description><![CDATA[349 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6665298837,41.7712211109,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>DAVIS N (3014 W 39th Pl)</name>
+			<description><![CDATA[306 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7002021606,41.8218516141,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>DAWES (3810 W 81st Pl)</name>
+			<description><![CDATA[101 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7173534238,41.7450777512,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>DECATUR (7030 N Sacramento Ave)</name>
+			<description><![CDATA[52 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7046185928,42.0092885566,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>DENEEN (7240 S Wabash Ave)</name>
+			<description><![CDATA[346 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6233445891,41.7624902636,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>DEPRIEST (139 S Parkside Ave)</name>
+			<description><![CDATA[462 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7662975549,41.8779788327,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>DETT (2131 W Monroe St)</name>
+			<description><![CDATA[160 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6803149669,41.8798698204,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>DEVER (3436 N Osceola Ave)</name>
+			<description><![CDATA[87 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.8131315249,41.942551669,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>DEVRY HS (3300 N Campbell Ave)</name>
+			<description><![CDATA[208 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6907613918,41.9413876393,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>DEWEY (5415 S Union Ave)</name>
+			<description><![CDATA[210 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6426515781,41.7956456829,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>DIEGO (1313 N Claremont Ave)</name>
+			<description><![CDATA[135 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6857562034,41.9052938529,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>DIRKSEN (8601 W Foster Ave)</name>
+			<description><![CDATA[130 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.8410414421,41.9737147769,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>DISNEY (4140 N Marine Dr)</name>
+			<description><![CDATA[110 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6460827438,41.9568161302,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>DISNEY II ES (3815 N Kedvale Ave)</name>
+			<description><![CDATA[142 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7306783758,41.9504605049,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>DISNEY II MAGNET HS (3900 N Lawndale Ave)</name>
+			<description><![CDATA[75 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7213635115,41.9524876689,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>DIXON (8306 S Saint Lawrence Ave)</name>
+			<description><![CDATA[239 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6099788751,41.7436692413,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-0</styleUrl>
+			<name>DODGE (431 N Troy St)</name>
+			<description><![CDATA[11 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7037937354,41.8891841747,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>DOOLITTLE (535 E 35th St)</name>
+			<description><![CDATA[121 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6122745425,41.8311206282,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>DORE (6108 S Natoma Ave)</name>
+			<description><![CDATA[56 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7876044214,41.7809544634,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>DOUGLASS HS (543 N Waller Ave)</name>
+			<description><![CDATA[384 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7676684561,41.8903686293,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>DRAKE (2710 S Dearborn St)</name>
+			<description><![CDATA[237 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6285534468,41.8440433124,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>DRUMMOND (1845 W Cortland St)</name>
+			<description><![CDATA[220 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6744945992,41.9159138013,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>DUBOIS (330 E 133rd St)</name>
+			<description><![CDATA[228 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6143200102,41.6537329809,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-6</styleUrl>
+			<name>DULLES (6311 S Calumet Ave)</name>
+			<description><![CDATA[1094 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6172141793,41.7799004932,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>DUNBAR HS (3000 S King Dr)</name>
+			<description><![CDATA[138 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6176374351,41.8402255712,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>DUNNE TECH ACAD (10845 S Union Ave)</name>
+			<description><![CDATA[95 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6399736047,41.6964961629,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>DURKIN PARK (8445 S Kolin Ave)</name>
+			<description><![CDATA[74 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7299552926,41.7388439404,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>DVORAK TECH ACAD (3615 W 16th St)</name>
+			<description><![CDATA[515 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7157435713,41.858883446,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>DYETT HS (555 E 51st St)</name>
+			<description><![CDATA[249 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6119307284,41.8020772337,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>EARHART (1710 E 93rd St)</name>
+			<description><![CDATA[132 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.582181738,41.726107455,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>EARLE (2040 W 62nd St)</name>
+			<description><![CDATA[173 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6755466606,41.7812251721,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>EBERHART (3400 W 65th Pl)</name>
+			<description><![CDATA[225 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.707952634,41.7744204514,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1</styleUrl>
+			<name>EBINGER (7350 W Pratt Ave)</name>
+			<description><![CDATA[33 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.8111697846,42.0044079207,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-0</styleUrl>
+			<name>EDGEBROOK (6525 N Hiawatha Ave)</name>
+			<description><![CDATA[24 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7618404749,41.9994368327,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-0</styleUrl>
+			<name>EDISON PARK (6220 N Olcott Ave)</name>
+			<description><![CDATA[25 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.8137712342,41.9942379492,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>EDISON T (4929 N Sawyer Ave)</name>
+			<description><![CDATA[136 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.709303666,41.971506096,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>EDWARDS (4815 S Karlov Ave)</name>
+			<description><![CDATA[196 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7258561778,41.8055415392,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>ELLINGTON (243 N Parkside Ave)</name>
+			<description><![CDATA[416 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7665893774,41.8855295797,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>EPIC CHTR HS (8255 S Houston Ave)</name>
+			<description><![CDATA[305 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5502223699,41.7448491052,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>ERICSON (3600 W 5th Ave)</name>
+			<description><![CDATA[292 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7158044313,41.8757441223,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>ERIE CHTR (1405 N Washtenaw Ave)</name>
+			<description><![CDATA[345 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6943644455,41.9067706345,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>ESMOND (1865 W Montvale Ave)</name>
+			<description><![CDATA[128 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6691586697,41.6894196058,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>EVERETT (3419 S Bell Ave)</name>
+			<description><![CDATA[183 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.681310304,41.8315551602,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>EVERGREEN MS (3537 S Paulina St)</name>
+			<description><![CDATA[99 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6678165117,41.8293556184,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>EVERS (9811 S Lowe Ave)</name>
+			<description><![CDATA[217 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6393054686,41.7156653572,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>EXCEL ACADEMY  ENGLEWOOD HS (7141 S Morgan St)</name>
+			<description><![CDATA[353 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6491243465,41.763895973,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>EXCEL ACADEMY  SOUTHWEST (8301 S DAMEN AVE)</name>
+			<description><![CDATA[117 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6728520573,41.7428907899,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>EXCEL ACADEMY  WOODLAWN (6145 S. Ingleside)</name>
+			<description><![CDATA[319 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6026331704,41.7828921657,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>FAIRFIELD (6201 S Fairfield Ave)</name>
+			<description><![CDATA[481 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6921150641,41.7809038977,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>FALCONER (3020 N Lamon Ave)</name>
+			<description><![CDATA[258 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7493306251,41.9357845733,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>FARADAY (3250 W Monroe St)</name>
+			<description><![CDATA[615 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7080920199,41.8797135906,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>FARNSWORTH (5414 N Linder Ave)</name>
+			<description><![CDATA[130 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7660716577,41.9797900549,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>FARRAGUT HS (2345 S Christiana Ave)</name>
+			<description><![CDATA[273 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7087056321,41.8485598741,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>FENGER HS (11220 S Wallace St)</name>
+			<description><![CDATA[249 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6375720507,41.6899507244,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>FERNWOOD (10041 S Union Ave)</name>
+			<description><![CDATA[221 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.640413646,41.7111836217,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>FIELD (7019 N Ashland Ave)</name>
+			<description><![CDATA[266 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6699854012,42.0096638543,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>FINKL (2332 S Western Ave)</name>
+			<description><![CDATA[114 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6856678431,41.849214905,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>FISKE (6020 S Langley Ave)</name>
+			<description><![CDATA[322 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6086328968,41.7851828158,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>FORD CHTR HS (931 S Homan Ave)</name>
+			<description><![CDATA[316 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7103018762,41.8693184758,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>FOREMAN HS (3235 N LeClaire Ave)</name>
+			<description><![CDATA[312 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7541665434,41.939796767,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>FORT DEARBORN (9025 S Throop St)</name>
+			<description><![CDATA[290 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6554811604,41.7296726741,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>FOSTER PARK (8530 S Wood St)</name>
+			<description><![CDATA[184 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6680993119,41.7384254769,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>FOUNDATIONS CHTR (1233 W. 109th Street)</name>
+			<description><![CDATA[178 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6535521889,41.6957785766,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>FRANKLIN (225 W Evergreen Ave)</name>
+			<description><![CDATA[240 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6355128103,41.9065999895,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>FRAZIER CHTR (3711 W Douglas Blvd)</name>
+			<description><![CDATA[304 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7176419761,41.8620768633,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>FRAZIER PROSPECTIVE (4027 W Grenshaw St)</name>
+			<description><![CDATA[323 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7272443786,41.8669796263,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>FULLER (4214 S St Lawrence Ave)</name>
+			<description><![CDATA[252 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6117840427,41.8180034028,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>FULTON (5300 S Hermitage Ave)</name>
+			<description><![CDATA[265 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6684358814,41.7975802702,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>FUNSTON (2010 N Central Park Ave)</name>
+			<description><![CDATA[342 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7168916649,41.9176165135,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>GAGE PARK HS (5630 S Rockwell St)</name>
+			<description><![CDATA[230 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6889539422,41.7910128383,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>GALAPAGOS CHTR (3814 W Iowa St)</name>
+			<description><![CDATA[655 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7219590387,41.8973130241,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>GALE (1631 W Jonquil Ter)</name>
+			<description><![CDATA[630 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6719389761,42.0210905572,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>GALILEO (820 S Carpenter St)</name>
+			<description><![CDATA[111 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6533655527,41.8712548234,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>GALLISTEL (10347 S Ewing Ave)</name>
+			<description><![CDATA[217 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5351753062,41.7068009989,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>GARVEY (10309 S Morgan St)</name>
+			<description><![CDATA[216 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6475771653,41.7066028586,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1</styleUrl>
+			<name>GARVY (5225 N Oak Park Ave)</name>
+			<description><![CDATA[49 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7962351135,41.9763516632,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>GARY (3740 W 31st St)</name>
+			<description><![CDATA[150 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7186966352,41.8370651512,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>GEORGE WESTINGHOUSE HS (3223 W Franklin Blvd)</name>
+			<description><![CDATA[114 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7073323085,41.8899772027,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>GILLESPIE (9301 S State St)</name>
+			<description><![CDATA[277 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6237194379,41.7253322786,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>GLOBAL CITIZENSHIP CHTR (4647 W 47th St)</name>
+			<description><![CDATA[136 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7400974361,41.807578507,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>GOETHE (2236 N Rockwell St)</name>
+			<description><![CDATA[229 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6928996958,41.9228310068,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>GOODE ACAD HS (7651 S Homan Ave)</name>
+			<description><![CDATA[105 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7073453478,41.7537498019,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>GOUDY (5120 N Winthrop Ave)</name>
+			<description><![CDATA[552 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6579124929,41.9758165297,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>GRAHAM (4436 S Union Ave)</name>
+			<description><![CDATA[148 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6433442353,41.8133037286,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>GRAHAMR HS (2347 S Wabash Ave)</name>
+			<description><![CDATA[131 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6253148158,41.8496754171,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>GRAY W (3730 N Laramie Ave)</name>
+			<description><![CDATA[131 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7571155988,41.9487635787,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>GREAT LAKES CHTR (8401 S Saginaw Ave)</name>
+			<description><![CDATA[379 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.559906902,41.7426713812,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-0</styleUrl>
+			<name>GREATER LAWNDALE HS (3120 S Kostner Ave)</name>
+			<description><![CDATA[4 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7352994692,41.8335072739,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>GREELEY (832 W Sheridan Rd)</name>
+			<description><![CDATA[353 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6509798691,41.9528095114,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>GREEN (1150 W 96th St)</name>
+			<description><![CDATA[110 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6525001397,41.7192919471,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>GREENE (3525 S Honore St)</name>
+			<description><![CDATA[131 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6714923698,41.8296692808,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>GREGORY (3715 W Polk St)</name>
+			<description><![CDATA[691 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7186661287,41.870742162,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>GRESHAM (8524 S Green St)</name>
+			<description><![CDATA[404 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6450252379,41.7389201572,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>GRIMES (5450 W 64th Pl)</name>
+			<description><![CDATA[115 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7588032937,41.7754642609,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1</styleUrl>
+			<name>GRISSOM (12810 S Escanaba Ave)</name>
+			<description><![CDATA[46 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5533067097,41.662480998,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>GUNSAULUS (4420 S Sacramento Ave)</name>
+			<description><![CDATA[154 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6993641852,41.8130073694,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>HAINES (247 W 23rd Pl)</name>
+			<description><![CDATA[220 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6338063315,41.8499583149,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>HALE (6140 S Melvina Ave)</name>
+			<description><![CDATA[71 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7765787091,41.7801917314,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>HALEY (11411 S Eggleston Ave)</name>
+			<description><![CDATA[237 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6336321364,41.6866599696,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>HAMILTON (1650 W Cornelia Ave)</name>
+			<description><![CDATA[178 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6708653735,41.9452196537,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>HAMLINE (4747 S Bishop St)</name>
+			<description><![CDATA[222 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6611746594,41.807241557,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>HAMMOND (2819 W 21st Pl)</name>
+			<description><![CDATA[206 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6962433006,41.8527191339,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>HAMPTON (3434 W 77th St)</name>
+			<description><![CDATA[106 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7087312849,41.7534571925,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>HANCOCK HS (4034 W 56th St)</name>
+			<description><![CDATA[182 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7244704648,41.7914639084,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>HANSON PARK (5411 W Fullerton Ave)</name>
+			<description><![CDATA[192 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.761514771,41.9239552574,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>HARLAN HS (9652 S Michigan Ave)</name>
+			<description><![CDATA[258 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6206234365,41.7183723454,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>HARPER HS (6520 S Wood St)</name>
+			<description><![CDATA[360 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.669089296,41.7751240831,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>HARTE (1556 E 56th St)</name>
+			<description><![CDATA[205 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5868545968,41.7934472432,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>HARVARD (7525 S Harvard)</name>
+			<description><![CDATA[526 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6327368738,41.7573405414,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>HAUGAN (4540 N Hamlin Ave)</name>
+			<description><![CDATA[124 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7231280352,41.9640287086,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>HAWTHORNE (3319 N Clifton Ave)</name>
+			<description><![CDATA[478 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6577088769,41.942275488,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>HAY (1018 N Laramie Ave)</name>
+			<description><![CDATA[499 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7558132531,41.8991713551,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>HAYT (1518 W Granville Ave)</name>
+			<description><![CDATA[167 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6685037745,41.9945408858,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>HEALY (3010 S Parnell Ave)</name>
+			<description><![CDATA[171 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6403407501,41.8395948553,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>HEARST (4640 S Lamon Ave)</name>
+			<description><![CDATA[189 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7457260572,41.8081749993,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>HEDGES (4747 S Winchester Ave)</name>
+			<description><![CDATA[199 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6733272594,41.8071121311,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-6</styleUrl>
+			<name>HEFFERAN (4409 W Wilcox St)</name>
+			<description><![CDATA[1063 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.735801894,41.8786646463,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>HENDERSON (5650 S Wolcott Ave)</name>
+			<description><![CDATA[283 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6718873069,41.7905912863,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>HENDRICKS (4316 S Princeton Ave)</name>
+			<description><![CDATA[260 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.633664477,41.815787751,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>HENRY (4250 N Saint Louis Ave)</name>
+			<description><![CDATA[226 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7156323718,41.9589887967,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>HERNANDEZ MS (3510 W 55th St)</name>
+			<description><![CDATA[54 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7113699217,41.7934793294,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>HEROES (8344 S Commercial Ave)</name>
+			<description><![CDATA[265 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5518617191,41.7437530828,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>HERZL (3711 W Douglas Blvd)</name>
+			<description><![CDATA[245 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.718993854,41.8620812959,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>HIBBARD (3244 W Ainslie St)</name>
+			<description><![CDATA[254 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7103616136,41.9703352343,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>HIGGINS (11710 S Morgan St)</name>
+			<description><![CDATA[180 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6469940375,41.6810313697,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>HIRSCH HS (7740 S Ingleside Ave)</name>
+			<description><![CDATA[349 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6017272659,41.7537479552,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>HITCH (5625 N McVicker Ave)</name>
+			<description><![CDATA[85 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7791230522,41.9836716954,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>HOLDEN (1104 W 31st St)</name>
+			<description><![CDATA[221 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6537916682,41.8380273873,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>HOLMES (955 W Garfield Blvd)</name>
+			<description><![CDATA[400 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6497953559,41.7937876486,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>HOPE CONTR ES (1628 W Washington)</name>
+			<description><![CDATA[179 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6680769459,41.8833620262,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>HOPE PREP HS (5515 S Lowe Ave)</name>
+			<description><![CDATA[191 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6412441097,41.7935534666,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>HOWE (720 N Lorel Ave)</name>
+			<description><![CDATA[559 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7593983848,41.8936122107,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>HOYNE (8905 S Crandon Ave)</name>
+			<description><![CDATA[133 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5682281011,41.7333377517,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>HSA CHTR  SW CHICAGO (5401 S. Western)</name>
+			<description><![CDATA[116 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6839633929,41.7952009525,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>HUBBARD HS (6200 S Hamlin Ave)</name>
+			<description><![CDATA[220 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7180137434,41.7805263865,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>HUGHES C (4247 W 15th St)</name>
+			<description><![CDATA[364 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.731777387,41.8605177375,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>HUGHES L (240 W 104th St)</name>
+			<description><![CDATA[386 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6298686592,41.7053423211,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>HURLEY (3849 W 69th Pl)</name>
+			<description><![CDATA[225 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7195408323,41.7667852808,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>HYDE PARK HS (6220 S Stony Island Ave)</name>
+			<description><![CDATA[246 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5866150102,41.7822569266,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>INFINITY HS (3120 S Kostner Ave)</name>
+			<description><![CDATA[122 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7352779612,41.8361688181,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-0</styleUrl>
+			<name>INSTITUTO CHTR  HEALTH SCIENCES (2520 S Western Ave)</name>
+			<description><![CDATA[19 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6872401586,41.8459665878,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1</styleUrl>
+			<name>INSTITUTO CHTR  JUSTICE  AND LEADERSHIP (2570 S Blue Island Ave)</name>
+			<description><![CDATA[47 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6840649381,41.8454460152,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1</styleUrl>
+			<name>INSTITUTO CHTR  RUDY LOZANO (2520 S Western Ave)</name>
+			<description><![CDATA[36 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.685902611,41.8459566733,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>INTERAMERICAN (851 W Waveland Ave)</name>
+			<description><![CDATA[511 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6515733418,41.9490032998,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>INTRINSIC CHTR (4540 W Belmont Ave)</name>
+			<description><![CDATA[173 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7411286265,41.9389884279,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>IRVING (749 S Oakley Blvd)</name>
+			<description><![CDATA[210 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6836156516,41.8715954911,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>JACKSON A (1340 W Harrison St)</name>
+			<description><![CDATA[97 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.660984672,41.8742996379,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>JACKSON M (917 W 88th St)</name>
+			<description><![CDATA[233 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6467667342,41.7341254717,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>JAHN (3149 N Wolcott Ave)</name>
+			<description><![CDATA[130 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6758097189,41.939247496,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>JAMIESON (5650 N Mozart St)</name>
+			<description><![CDATA[109 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7005294202,41.9846407754,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>JEFFERSON ALT HS (1100 S Hamilton Ave)</name>
+			<description><![CDATA[100 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6804175551,41.8678322848,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>JENNER (1119 N Cleveland Ave)</name>
+			<description><![CDATA[283 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6410555598,41.9020548407,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>JENSEN (3030 W Harrison St)</name>
+			<description><![CDATA[383 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7022410528,41.873814947,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>JOHNSON (1420 S Albany Ave)</name>
+			<description><![CDATA[195 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7031387624,41.8618361912,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>JONES HS (700 S State St)</name>
+			<description><![CDATA[734 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6276753225,41.8730659227,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>JOPLIN (7931 S Honore St)</name>
+			<description><![CDATA[378 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6693656498,41.7493391609,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>JORDAN (7414 N Wolcott Ave)</name>
+			<description><![CDATA[354 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6777625167,42.0170875907,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>JUAREZ HS (2150 S Laflin St)</name>
+			<description><![CDATA[76 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6637324466,41.8526665992,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>JULIAN HS (10330 S Elizabeth St)</name>
+			<description><![CDATA[139 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6537492111,41.7058589357,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>JUNGMAN (1746 S Miller St)</name>
+			<description><![CDATA[195 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6523015944,41.8580647762,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>KANOON (2233 S Kedzie Ave)</name>
+			<description><![CDATA[357 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7051120774,41.850771483,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1</styleUrl>
+			<name>KELLER (3020 W 108th St)</name>
+			<description><![CDATA[42 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6972783365,41.6971703336,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>KELLMAN (3030 W Arthington St)</name>
+			<description><![CDATA[253 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7021629045,41.8701677166,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1</styleUrl>
+			<name>KELLOGG (9241 S Leavitt St)</name>
+			<description><![CDATA[41 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6772325066,41.7252634388,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>KELLY HS (4136 S California Ave)</name>
+			<description><![CDATA[238 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6946386599,41.8187290632,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>KELVYN PARK HS (4343 W Wrightwood Ave)</name>
+			<description><![CDATA[225 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.735998822,41.9279184024,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>KENNEDY HS (6325 W 56th St)</name>
+			<description><![CDATA[69 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7808397556,41.7899612516,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>KENWOOD HS (5015 S Blackstone Ave)</name>
+			<description><![CDATA[217 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5904208897,41.8037721186,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>KERSHAW (6450 S Lowe Ave)</name>
+			<description><![CDATA[410 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6408920253,41.7764528097,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>KILMER (6700 N Greenview Ave)</name>
+			<description><![CDATA[179 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6682224667,42.0036404619,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>KING (644 W 71st St)</name>
+			<description><![CDATA[440 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6413345402,41.765334979,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>KING HS (4445 S Drexel Blvd)</name>
+			<description><![CDATA[286 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6038738615,41.813675452,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1</styleUrl>
+			<name>KINZIE (5625 S Mobile Ave)</name>
+			<description><![CDATA[38 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7794826001,41.7899646339,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>KIPLING (9351 S Lowe Ave)</name>
+			<description><![CDATA[228 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6395207214,41.7236269051,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>KIPP CHTR  ASCEND (1616 S Avers Ave)</name>
+			<description><![CDATA[255 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7210706467,41.8583697431,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>KIPP CHTR  ASCEND PRIMARY (1440 S. Christiana)</name>
+			<description><![CDATA[318 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7092868303,41.8611741881,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-0</styleUrl>
+			<name>KIPP CHTR  BLOOM (5515 S Lowe Ave)</name>
+			<description><![CDATA[24 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6399673312,41.793556267,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>KIPP CHTR  CREATE (4837 W Erie St)</name>
+			<description><![CDATA[356 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.746613839,41.891816142,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>KOZMINSKI (936 E 54th St)</name>
+			<description><![CDATA[268 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6024814476,41.7980018771,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>LAKE VIEW HS (4015 N Ashland Ave)</name>
+			<description><![CDATA[190 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6689526896,41.9547640669,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>LANE HS (2501 W Addison St)</name>
+			<description><![CDATA[119 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6910126273,41.9466445737,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>LANGFORD (6010 S Throop St)</name>
+			<description><![CDATA[379 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6571692056,41.7846808606,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>LARA (4619 S Wolcott Ave)</name>
+			<description><![CDATA[187 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6721815932,41.8097702963,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>LASALLE (1734 N Orleans St)</name>
+			<description><![CDATA[409 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6375648638,41.913899532,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>LASALLE II (1148 N Honore St)</name>
+			<description><![CDATA[327 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6736960316,41.9029144566,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>LAVIZZO (138 W 109th St)</name>
+			<description><![CDATA[373 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.627147688,41.6962623467,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>LAWNDALE (3500 W Douglas Blvd)</name>
+			<description><![CDATA[331 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7129567869,41.8629600239,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>LEARN CHRT  SOUTH CHICAGO (8914 S Buffalo Ave)</name>
+			<description><![CDATA[278 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5455798925,41.7333331322,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>LEARN CHTR  BUTLER (1132 S Homan Ave)</name>
+			<description><![CDATA[330 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7106794802,41.8672727133,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>LEARN CHTR  CAMPBELL (212 S Francisco Ave)</name>
+			<description><![CDATA[475 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6987387202,41.8778606307,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>LEARN CHTR  EXCEL (2401 W Congress Pkwy)</name>
+			<description><![CDATA[83 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6865683709,41.8746871403,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>LEARN CHTR  HUNTER PERKINS (1700 W 83rd St)</name>
+			<description><![CDATA[259 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.665721055,41.7431217695,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>LEARN CHTR 7 (3021 W Carroll Ave)</name>
+			<description><![CDATA[91 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7013973499,41.8874102842,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1</styleUrl>
+			<name>LEARN CHTR MIDDLE SCHOOL (3021 W Carroll Ave)</name>
+			<description><![CDATA[38 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7027038987,41.8874127024,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>LEE (6448 S Tripp Ave)</name>
+			<description><![CDATA[130 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7288842925,41.7753053867,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>LEGACY CHTR (4217 W 18th St)</name>
+			<description><![CDATA[222 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7303481482,41.8568591577,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>LEGAL PREP CHTR ACADEMY (1901 W Carroll Ave)</name>
+			<description><![CDATA[68 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6744436516,41.8876304377,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>LELAND (512 S Lavergne Ave)</name>
+			<description><![CDATA[636 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7492755544,41.8735867797,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>LENART (8101 S LaSalle St)</name>
+			<description><![CDATA[157 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.628040363,41.7471859176,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>LEWIS (1431 N Leamington Ave)</name>
+			<description><![CDATA[306 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7545499505,41.9068260496,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>LIBBY (5300 S Loomis Blvd)</name>
+			<description><![CDATA[249 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6599328174,41.7976848317,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>LINCOLN (615 W Kemper Pl)</name>
+			<description><![CDATA[386 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6444973036,41.9245248156,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>LINCOLN PARK HS (2001 N Orchard St)</name>
+			<description><![CDATA[242 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6460093598,41.9182683107,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>LINDBLOM HS (6130 S Wolcott Ave)</name>
+			<description><![CDATA[280 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6716618501,41.7820408025,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>LITTLE BLACK PEARL ACADEMY HS (1060 E 47th St)</name>
+			<description><![CDATA[193 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5993399405,41.8096954956,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>LITTLE VILLAGE (2620 S Lawndale Ave)</name>
+			<description><![CDATA[221 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7173189528,41.8436981177,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>LLOYD (2103 N Lamon Ave)</name>
+			<description><![CDATA[286 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7485150133,41.9188140954,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>LOCKE A CHTR (3141 W Jackson Blvd)</name>
+			<description><![CDATA[242 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7052345263,41.8772483521,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>LOCKE J (2828 N Oak Park Ave)</name>
+			<description><![CDATA[105 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7956040707,41.9317623536,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>LOGANDALE MS (3212 W George St)</name>
+			<description><![CDATA[302 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7080408766,41.9339701952,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>LORCA (3231 N Springfield Ave)</name>
+			<description><![CDATA[174 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7247831232,41.9400259128,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>LOVETT (6333 W Bloomingdale Ave)</name>
+			<description><![CDATA[135 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7839188472,41.9127180263,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>LOWELL (3320 W Hirsch St)</name>
+			<description><![CDATA[290 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7102170022,41.9065195907,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>LOZANO (1501 N Greenview Ave)</name>
+			<description><![CDATA[179 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6650932725,41.9088861271,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>LYON (2941 N McVicker Ave)</name>
+			<description><![CDATA[156 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7771741985,41.9341921621,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>MADERO (3202 W 28th St)</name>
+			<description><![CDATA[103 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7050642603,41.8409569109,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>MADISON (7433 S Dorchester Ave)</name>
+			<description><![CDATA[454 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5907123955,41.7595480596,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>MAGIC JOHNSON  CHATHAM (214 W. 83rd Street)</name>
+			<description><![CDATA[387 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6297199346,41.74362762,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>MAGIC JOHNSON ACADEMY HUMBOLDT PK HS (2421 W. Division)</name>
+			<description><![CDATA[112 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6878889935,41.9029250315,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>MAGIC JOHNSON ACADEMY NORTH LAWNDALE HS (3222 W Roosevelt Rd)</name>
+			<description><![CDATA[365 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7066036763,41.8664778506,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>MAGIC JOHNSON ACADEMY ROSELAND HS (10928 S. Halsted Ave)</name>
+			<description><![CDATA[139 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6426969685,41.6951598389,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>MAGIC JOHNSON ACADEMYENGLEWOOD HS (845 W. 69th Street)</name>
+			<description><![CDATA[526 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6462839759,41.7687290901,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>MANIERRE (1420 N Hudson Ave)</name>
+			<description><![CDATA[484 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6398265131,41.9082468818,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>MANLEY HS (2935 W Polk St)</name>
+			<description><![CDATA[375 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6998955901,41.870938956,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>MANN (8050 S Chappel Ave)</name>
+			<description><![CDATA[155 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5748156376,41.748274127,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>MARINE ACAD AT AMES (1920 N Hamlin Ave)</name>
+			<description><![CDATA[136 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7217423174,41.9160446327,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>MARINE MILITARY HS (145 S Campbell Ave)</name>
+			<description><![CDATA[148 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6883137238,41.8791234587,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>MARQUETTE (6550 S Richmond St)</name>
+			<description><![CDATA[355 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6970297997,41.7738810793,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>MARSH (9822 S Exchange Ave)</name>
+			<description><![CDATA[149 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5524834263,41.7165880139,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>MARSHALL HS (3250 W Adams St)</name>
+			<description><![CDATA[211 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.70805007,41.8784440849,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>MARSHALL T MS (3900 N Lawndale Ave)</name>
+			<description><![CDATA[112 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7199881166,41.9524918601,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>MASON (4217 W 18th St)</name>
+			<description><![CDATA[147 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7316724333,41.8568636998,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>MATHER HS (5835 N Lincoln Ave)</name>
+			<description><![CDATA[115 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7024963959,41.9875886814,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>MAYER (2250 N Clifton Ave)</name>
+			<description><![CDATA[245 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6572874387,41.9232035216,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>MAYS (6656 S Normal Blvd)</name>
+			<description><![CDATA[158 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6372773472,41.7727274968,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>MCAULIFFE (1841 N Springfield Ave)</name>
+			<description><![CDATA[185 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7239311319,41.914816341,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>MCCLELLAN (3527 S Wallace St)</name>
+			<description><![CDATA[149 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6411025749,41.8299928623,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>MCCORMICK (2712 S Sawyer Ave)</name>
+			<description><![CDATA[276 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7063000924,41.8422671648,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>MCCUTCHEON (4865 N Sheridan Rd)</name>
+			<description><![CDATA[452 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6547584482,41.9709490823,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>MCDADE (8801 S Indiana Ave)</name>
+			<description><![CDATA[130 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6192144433,41.7345499075,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>MCDOWELL (1419 E 89th St)</name>
+			<description><![CDATA[201 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.589589499,41.7331323127,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>MCKAY (6901 S Fairfield Ave)</name>
+			<description><![CDATA[252 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6917865024,41.768142764,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>MCNAIR (4820 W Walton St)</name>
+			<description><![CDATA[467 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.746730779,41.8978190688,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>MCPHERSON (4728 N Wolcott Ave)</name>
+			<description><![CDATA[198 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6762882527,41.9678468672,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-6</styleUrl>
+			<name>MELODY (3937 W Wilcox St)</name>
+			<description><![CDATA[1777 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.724661231,41.8787989314,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>METCALFE (12339 S Normal Ave)</name>
+			<description><![CDATA[223 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6343055215,41.6694440218,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>MIRELES (9000 S Exchange Ave)</name>
+			<description><![CDATA[466 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.552787944,41.7317169156,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>MITCHELL (2233 W Ohio St)</name>
+			<description><![CDATA[174 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6831845865,41.8920821655,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>MOLLISON (4415 S Dr Martin L King Jr Dr)</name>
+			<description><![CDATA[283 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6166179444,41.8143582825,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>MONROE (3651 W Schubert Ave)</name>
+			<description><![CDATA[308 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7192237512,41.9299886027,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>MONTEFIORE (1310 S Ashland Ave)</name>
+			<description><![CDATA[120 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6664442314,41.8647241534,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>MONTESSORI CHTR  ENGLEWOOD (6550 S Seeley Ave)</name>
+			<description><![CDATA[105 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.676146727,41.7745716017,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>MOOS (1711 N California Ave)</name>
+			<description><![CDATA[129 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6969413866,41.9125054828,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>MORGAN PARK HS (1744 W Pryor Ave)</name>
+			<description><![CDATA[204 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.665657545,41.6920350083,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>MORRILL (6011 S Rockwell St)</name>
+			<description><![CDATA[346 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6885492556,41.7843132811,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1</styleUrl>
+			<name>MORTON (431 N Troy St)</name>
+			<description><![CDATA[39 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7051078302,41.889178134,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1</styleUrl>
+			<name>MOUNT GREENWOOD (10841 S Homan Ave)</name>
+			<description><![CDATA[50 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7058099453,41.6957338616,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>MOUNT VERNON (10540 S Morgan St)</name>
+			<description><![CDATA[172 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6476524864,41.7019521165,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>MOZART (2200 N Hamlin Ave)</name>
+			<description><![CDATA[194 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7218881442,41.9209096487,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-0</styleUrl>
+			<name>MULTICULTURAL ACAD SCHOLARSHIP (3120 S Kostner Ave)</name>
+			<description><![CDATA[0 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7352832975,41.8352818729,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>MURPHY (3539 W Grace St)</name>
+			<description><![CDATA[89 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7168318549,41.9500777527,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>MURRAY (5335 S Kenwood Ave)</name>
+			<description><![CDATA[258 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5933404059,41.798535484,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>NAMASTE CHTR (3737 S Paulina St)</name>
+			<description><![CDATA[133 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6677240431,41.8256997591,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>NASH (4837 W Erie St)</name>
+			<description><![CDATA[556 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7479358786,41.89180975,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>NATIONAL TEACHERS (55 W Cermak Rd)</name>
+			<description><![CDATA[245 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.62930833,41.8527997694,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>NEIL (8555 S Michigan Ave)</name>
+			<description><![CDATA[193 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6209334548,41.738406594,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>NETTELHORST (3252 N Broadway St)</name>
+			<description><![CDATA[383 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6445612217,41.9416365539,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>NEW FIELD (1707 W Morse Ave)</name>
+			<description><![CDATA[205 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6731683283,42.0077025702,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>NEW SULLIVAN (8331 S Mackinaw Ave)</name>
+			<description><![CDATA[178 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5429276085,41.7438285236,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>NEWBERRY (700 W Willow St)</name>
+			<description><![CDATA[175 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6459902518,41.9139472167,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>NICHOLSON TECH ACAD (6006 S Peoria St)</name>
+			<description><![CDATA[541 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6474528422,41.7849423793,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>NIGHTINGALE (5250 S Rockwell St)</name>
+			<description><![CDATA[124 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6891388641,41.7977143781,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>NIXON (2121 N Keeler Ave)</name>
+			<description><![CDATA[283 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7314200914,41.9195814523,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>NKRUMAH CHTR (314 W 108th St)</name>
+			<description><![CDATA[245 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6310581484,41.6980404875,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>NOBEL (4127 W Hirsch St)</name>
+			<description><![CDATA[487 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7299546321,41.9061551525,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-6</styleUrl>
+			<name>NOBLE CHTR  ACADEMY (17 N. State)</name>
+			<description><![CDATA[1235 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6277425267,41.8821524835,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>NOBLE CHTR  BAKER COLLEGE PREP (2710 E 89th St)</name>
+			<description><![CDATA[292 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5562014413,41.7346223708,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>NOBLE CHTR  BUTLER (821 E 103rd St)</name>
+			<description><![CDATA[117 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6025733174,41.7066668577,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>NOBLE CHTR  CHGO BULLS (2040 W Adams St)</name>
+			<description><![CDATA[120 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6781952601,41.8788088081,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>NOBLE CHTR  COMER (7200 S Ingleside Ave)</name>
+			<description><![CDATA[106 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6019735726,41.7640829924,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>NOBLE CHTR  DRW (931 S Homan Ave)</name>
+			<description><![CDATA[245 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.711654226,41.8693280759,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>NOBLE CHTR  GOLDER (1454 W Superior St)</name>
+			<description><![CDATA[181 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6644829983,41.8952821934,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>NOBLE CHTR  HANSBERRY (8748 S Aberdeen St)</name>
+			<description><![CDATA[280 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6509867281,41.7344416224,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>NOBLE CHTR  ITW DAVID SPEER (2456 N. Mango Ave.)</name>
+			<description><![CDATA[246 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7698077738,41.9256302709,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>NOBLE CHTR  JOHNSON (6350 S Stewart Ave)</name>
+			<description><![CDATA[247 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6351166981,41.7783694981,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>NOBLE CHTR  MUCHIN (1 N State St)</name>
+			<description><![CDATA[706 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6263382826,41.8827402574,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>NOBLE CHTR  NOBLE (1010 N Noble St)</name>
+			<description><![CDATA[105 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6626277817,41.9001905201,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>NOBLE CHTR  PRITZKER (4131 W Cortland Ave)</name>
+			<description><![CDATA[297 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7301267151,41.9152141062,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>NOBLE CHTR  RAUNER (1337 W Ohio St)</name>
+			<description><![CDATA[94 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6608588702,41.8924250118,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>NOBLE CHTR  ROWE CLARK (3645 W Chicago Ave)</name>
+			<description><![CDATA[702 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7180467675,41.8953622577,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>NOBLE CHTR  UIC (1231 S Damen Ave)</name>
+			<description><![CDATA[80 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6761109293,41.8658174128,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-0</styleUrl>
+			<name>NORTH LAWNDALE CHTR  COLLINS (1313 S Sacramento Dr)</name>
+			<description><![CDATA[21 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7006806005,41.8641458425,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>NORTH RIVER (4416 N Troy St)</name>
+			<description><![CDATA[218 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7071507286,41.9617210561,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>NORTHGRAND HS (4338 W Wabansia Ave)</name>
+			<description><![CDATA[307 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7352375559,41.9116736918,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-0</styleUrl>
+			<name>NORTHSIDE LEARNING HS (3730 W Bryn Mawr Ave)</name>
+			<description><![CDATA[8 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7223862157,41.9829725212,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>NORTHSIDE PREP HS (5501 N Kedzie Ave)</name>
+			<description><![CDATA[56 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7087078003,41.9813152821,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>NORTHWEST (5252 W Palmer St)</name>
+			<description><![CDATA[63 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7581542565,41.9201547694,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1</styleUrl>
+			<name>NORWOOD PARK (5900 N Nina Ave)</name>
+			<description><![CDATA[27 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.8029794402,41.9881525058,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>NTH LAWNDALE CHTR  CHRISTIANA (1615 S. Christiana Ave.)</name>
+			<description><![CDATA[274 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7089871107,41.8585635536,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-6</styleUrl>
+			<name>OKEEFFE (6940 S Merrill Ave)</name>
+			<description><![CDATA[953 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5728059552,41.7686023114,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>OTOOLE (6550 S Seeley Ave)</name>
+			<description><![CDATA[223 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6748649999,41.774571073,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-6</styleUrl>
+			<name>OGDEN ES (24 W Walton St)</name>
+			<description><![CDATA[808 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.62929657,41.899976489,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>OGDEN HS (1250 W Erie St)</name>
+			<description><![CDATA[169 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6594046839,41.8935476373,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>OGLESBY (7646 S Green St)</name>
+			<description><![CDATA[548 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6454694968,41.7546700624,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-0</styleUrl>
+			<name>OMBUDSMAN  NORTHWEST HS (7500 N Harlem Ave)</name>
+			<description><![CDATA[14 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.806681772,42.0171712385,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>OMBUDSMAN  SOUTH HS (6057 S. Western Ave)</name>
+			<description><![CDATA[250 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.683634531,41.7830265809,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>OMBUDSMAN  WEST HS (2401 W. Congress Pkwy)</name>
+			<description><![CDATA[125 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6878422947,41.8746729941,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1</styleUrl>
+			<name>ONAHAN (6634 W Raven St)</name>
+			<description><![CDATA[31 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7931082556,41.9937903491,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1</styleUrl>
+			<name>ORIOLE PARK (5424 N Oketo Ave)</name>
+			<description><![CDATA[39 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.8120540393,41.9785013757,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>OROZCO (1940 W 18th St)</name>
+			<description><![CDATA[164 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6752104591,41.8577548091,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>ORR HS (730 N Pulaski Rd)</name>
+			<description><![CDATA[362 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7261663315,41.8944488257,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>ORTIZ DE DOMINGUEZ (3000 S Lawndale Ave)</name>
+			<description><![CDATA[122 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7171903206,41.8387905196,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>OTIS (525 N Armour St)</name>
+			<description><![CDATA[175 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6654262361,41.8918060813,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>OWEN (8247 S Christiana Ave)</name>
+			<description><![CDATA[151 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7057490873,41.7428499213,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>OWENS (12302 S State St)</name>
+			<description><![CDATA[190 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6225456611,41.6706175392,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>PALMER (5051 N Kenneth Ave)</name>
+			<description><![CDATA[65 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7392129453,41.9732893926,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>PARK MANOR (7037 S Rhodes Ave)</name>
+			<description><![CDATA[487 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6115455929,41.7664765427,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>PARKER (6800 S Stewart Ave)</name>
+			<description><![CDATA[90 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6340858564,41.770779795,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>PARKSIDE (6938 S East End Ave)</name>
+			<description><![CDATA[713 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5829543833,41.7685551896,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>PASTEUR (5825 S Kostner Ave)</name>
+			<description><![CDATA[126 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7326664551,41.7868953762,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>PATHWAYS IN EDUCATION  AVONDALE HS (3100 W Belmont Ave)</name>
+			<description><![CDATA[117 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7052063219,41.9394332088,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>PATHWAYS IN EDUCATION  BRIGHTON PARK HS (3124 W. 47th Street)</name>
+			<description><![CDATA[126 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7026447519,41.8082257849,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>PATHWAYS IN EDUCATION  LINCOLN SQ HS (4820 N. Western Avenue)</name>
+			<description><![CDATA[192 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6890350358,41.9692452776,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>PATHWAYS IN EDUCATION HS (3270 W 87th St)</name>
+			<description><![CDATA[84 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7040600674,41.7352390218,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>PAYTON HS (1034 N Wells St)</name>
+			<description><![CDATA[175 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6353847656,41.9015751691,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>PEACE AND EDUCATION HS (4946 S Paulina St)</name>
+			<description><![CDATA[228 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.667377765,41.8035147151,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>PECK (3826 W 58th St)</name>
+			<description><![CDATA[174 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.719216261,41.7878989699,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>PEIRCE (1423 W Bryn Mawr Ave)</name>
+			<description><![CDATA[104 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6658500364,41.9834557917,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>PENN (1616 S Avers Ave)</name>
+			<description><![CDATA[321 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.722385548,41.8583724192,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>PEREZ (1241 W 19th St)</name>
+			<description><![CDATA[244 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6579801282,41.8560287223,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>PERSHING (3200 S Calumet Ave)</name>
+			<description><![CDATA[169 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6183376541,41.8365269527,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>PERSPECTIVES CHTR  IIT (3663 S Wabash Ave)</name>
+			<description><![CDATA[105 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6247877203,41.8277838565,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>PERSPECTIVES CHTR  JOSLIN (1930 S Archer Ave)</name>
+			<description><![CDATA[296 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6285309013,41.855999104,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>PERSPECTIVES CHTR  LEADERSHIP ACADEMY (8131 S May St)</name>
+			<description><![CDATA[208 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.652045088,41.7459608311,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>PERSPECTIVES CHTR  TECH HS (8131 S May St)</name>
+			<description><![CDATA[252 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6506570243,41.7459490186,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>PETERSON (5510 N Christiana Ave)</name>
+			<description><![CDATA[162 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7125825774,41.9815571375,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>PHILLIPS HS (244 E Pershing Rd)</name>
+			<description><![CDATA[365 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6197963459,41.8238799677,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>PHOENIX MILITARY HS (145 S Campbell Ave)</name>
+			<description><![CDATA[349 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6869602185,41.8791182305,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>PICCOLO (1040 N Keeler Ave)</name>
+			<description><![CDATA[581 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7312605958,41.900139655,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>PICKARD (2301 W 21st Pl)</name>
+			<description><![CDATA[357 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.683290743,41.8529003941,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>PILSEN (1420 W 17th St)</name>
+			<description><![CDATA[162 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6622094335,41.8588488754,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>PIRIE (650 E 85th St)</name>
+			<description><![CDATA[252 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6078911371,41.7403402329,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>PLAMONDON (2642 W 15th Pl)</name>
+			<description><![CDATA[177 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6925257507,41.8602588984,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>PLATO CONTR (5545 W Harrison St)</name>
+			<description><![CDATA[320 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7633369322,41.8727604278,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>POE (10538 S Langley Ave)</name>
+			<description><![CDATA[137 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6064191738,41.7026300007,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>POLARIS CHTR (620 N Sawyer Ave)</name>
+			<description><![CDATA[718 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7077964743,41.8925501734,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>PORTAGE PARK (5330 W Berteau Ave)</name>
+			<description><![CDATA[102 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7610070039,41.9569876365,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>POWELL (7511 S South Shore Dr)</name>
+			<description><![CDATA[536 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5567892487,41.7603317995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>PRESCOTT (1632 W Wrightwood Ave)</name>
+			<description><![CDATA[169 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6695275037,41.9288410998,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>PRIETO (2231 N Central Ave)</name>
+			<description><![CDATA[260 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7657805707,41.9213175818,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>PRITZKER (2009 W Schiller St)</name>
+			<description><![CDATA[714 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6777609813,41.9070530044,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>PROLOGUE  JOHNSTON CHTR HS (1551 W 95th St)</name>
+			<description><![CDATA[117 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6624156534,41.7211364544,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>PROLOGUE CONTR HS (1135 N Cleaver St)</name>
+			<description><![CDATA[302 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6635408086,41.903070179,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>PROSSER HS (2148 N Long Ave)</name>
+			<description><![CDATA[80 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7610483155,41.9200593991,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>PROVIDENCE CHTR  BUNCHE (6515 S Ashland Ave)</name>
+			<description><![CDATA[492 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6639958298,41.775367367,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>PRUSSING (4650 N Menard Ave)</name>
+			<description><![CDATA[126 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7724141663,41.9656190708,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>PULASKI (2230 W McLean Ave)</name>
+			<description><![CDATA[248 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6838014305,41.9184862776,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>PULLMAN (11311 S Forrestville Ave)</name>
+			<description><![CDATA[254 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6094309671,41.688819352,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>RABY HS (3545 W Fulton Blvd)</name>
+			<description><![CDATA[443 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7154231197,41.8862100591,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>RANDOLPH (7316 S Hoyne Ave)</name>
+			<description><![CDATA[191 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6759655137,41.760614127,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>RAVENSWOOD (4332 N Paulina St)</name>
+			<description><![CDATA[134 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.670922419,41.9607456921,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>RAY (5631 S Kimbark Ave)</name>
+			<description><![CDATA[88 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5947520723,41.7923478799,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>REAVIS (834 E 50th St)</name>
+			<description><![CDATA[325 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.60492543,41.8041737911,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>REILLY (3650 W School St)</name>
+			<description><![CDATA[210 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7195405443,41.9410939901,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>REINBERG (3425 N Major Ave)</name>
+			<description><![CDATA[189 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7689826184,41.9430188952,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>REVERE (1010 E 72nd St)</name>
+			<description><![CDATA[174 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6001768238,41.7641958637,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>RICHARDS HS (5009 S Laflin St)</name>
+			<description><![CDATA[334 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6622778453,41.8028813748,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>RICKOVER HS (5900 N Glenwood Ave)</name>
+			<description><![CDATA[126 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6657885083,41.9890207091,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>ROBESON HS (6835 S Normal Blvd)</name>
+			<description><![CDATA[215 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6371527175,41.7697137951,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>ROBINSON (4225 S Lake Park Ave)</name>
+			<description><![CDATA[151 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5990667713,41.8173493265,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>ROGERS (7345 N Washtenaw Ave)</name>
+			<description><![CDATA[69 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6971853935,42.0152650453,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>ROOSEVELT HS (3436 W Wilson Ave)</name>
+			<description><![CDATA[339 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7148186159,41.9648278838,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>ROWE CHTR (1424 N Cleaver St)</name>
+			<description><![CDATA[100 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6640724683,41.9077971781,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>RUDOLPH (110 N Paulina St)</name>
+			<description><![CDATA[63 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.669476709,41.8835681676,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>RUGGLES (7831 S Prairie Ave)</name>
+			<description><![CDATA[328 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6180664478,41.7519455754,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>RUIZ (2410 S Leavitt St)</name>
+			<description><![CDATA[98 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6807445353,41.8481009388,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>RYDER (8716 S Wallace St)</name>
+			<description><![CDATA[234 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6388427003,41.7353793888,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>SABIN (2216 W Hirsch St)</name>
+			<description><![CDATA[206 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6830499423,41.9068158092,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>SALAZAR (160 W Wendell St)</name>
+			<description><![CDATA[477 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6336324344,41.9014165338,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>SANDOVAL (5534 S Saint Louis Ave)</name>
+			<description><![CDATA[93 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7109873322,41.7923460835,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>SAUCEDO (2850 W 24th Blvd)</name>
+			<description><![CDATA[52 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.697315538,41.8479407156,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>SAUGANASH (6040 N Kilpatrick Ave)</name>
+			<description><![CDATA[54 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7459514446,41.9911692455,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>SAWYER (5248 S Sawyer Ave)</name>
+			<description><![CDATA[257 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7050057809,41.7974982025,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>SAYRE (1850 N Newland Ave)</name>
+			<description><![CDATA[61 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7987207052,41.9141506295,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>SCAMMON (4201 W Henderson St)</name>
+			<description><![CDATA[191 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7321787773,41.9416776033,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>SCHMID (9755 S Greenwood Ave)</name>
+			<description><![CDATA[127 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5969318814,41.7169888719,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>SCHUBERT (2727 N Long Ave)</name>
+			<description><![CDATA[249 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7611904688,41.9304033156,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>SCHURZ HS (3601 N Milwaukee Ave)</name>
+			<description><![CDATA[168 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7356121102,41.9463645424,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>SENN HS (5900 N Glenwood Ave)</name>
+			<description><![CDATA[92 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6671361897,41.9890285381,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>SEWARD (4600 S Hermitage Ave)</name>
+			<description><![CDATA[202 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.668772011,41.8103332401,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>SHABAZZ CHTR  DUSABLE (4934 S Wabash Ave)</name>
+			<description><![CDATA[140 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.62501515,41.804309326,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>SHABAZZ CHTR  SHABAZZ (7823 S Ellis Ave)</name>
+			<description><![CDATA[613 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6002545537,41.7524584883,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>SHABAZZ CHTR  SIZEMORE (6936 S Hermitage Ave)</name>
+			<description><![CDATA[570 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6676390078,41.7673901123,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>SHERIDAN (533 W 27th St)</name>
+			<description><![CDATA[119 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6413398053,41.8444001583,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>SHERMAN (1000 W 52nd St)</name>
+			<description><![CDATA[323 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.650221446,41.7997662049,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>SHERWOOD (245 W 57th St)</name>
+			<description><![CDATA[269 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6322793817,41.7908002427,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>SHIELDS (4250 S Rockwell St)</name>
+			<description><![CDATA[239 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6896472357,41.8159094859,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>SHIELDS MIDDLE (2611 W 48th St)</name>
+			<description><![CDATA[159 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.689779773,41.8064914103,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>SHOESMITH (1330 E 50th St)</name>
+			<description><![CDATA[62 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.593904942,41.804294016,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>SHOOP (11140 S Bishop St)</name>
+			<description><![CDATA[116 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6586690525,41.6909188763,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>SIMEON HS (8147 S Vincennes Ave)</name>
+			<description><![CDATA[143 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6354103687,41.7457812298,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-0</styleUrl>
+			<name>SIMPSON HS (1321 S Paulina St)</name>
+			<description><![CDATA[21 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6687222293,41.8643654823,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>SKINNER (1260 W Adams St)</name>
+			<description><![CDATA[147 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6594189761,41.8791025425,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>SKINNER NORTH (640 W Scott St)</name>
+			<description><![CDATA[193 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6448414953,41.9051091187,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>SMITH (744 E 103rd St)</name>
+			<description><![CDATA[94 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6046604085,41.7075576165,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>SMYSER (4310 N Melvina Ave)</name>
+			<description><![CDATA[103 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7819745381,41.9588680354,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>SMYTH (1059 W 13th St)</name>
+			<description><![CDATA[231 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.653445027,41.8653510176,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1</styleUrl>
+			<name>SOLOMON (6206 N Hamlin Ave)</name>
+			<description><![CDATA[34 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7240426332,41.9939423324,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>SOLORIO HS (5400 S St Louis Ave)</name>
+			<description><![CDATA[55 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7110588223,41.7952005546,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>SOUTH LOOP (1212 S Plymouth Ct)</name>
+			<description><![CDATA[722 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.628615004,41.8668745054,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>SOUTH SHORE INTL HS (1955 E 75th St)</name>
+			<description><![CDATA[254 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5763526381,41.7587916624,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>SOUTHSHORE (1415 E 70th St)</name>
+			<description><![CDATA[365 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5903961019,41.7677551083,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>SOUTHSIDE HS (7342 S Hoyne Ave)</name>
+			<description><![CDATA[65 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6759467675,41.7598524279,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>SPENCER TECH ACAD (214 N Lavergne Ave)</name>
+			<description><![CDATA[787 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7504447314,41.8848763978,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>SPRY ES (2400 S Marshall Blvd)</name>
+			<description><![CDATA[271 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7001844719,41.8477467218,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>SPRY HS (2400 S Marshall Blvd)</name>
+			<description><![CDATA[75 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6989461063,41.8477616944,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>STAGG (7424 S Morgan St)</name>
+			<description><![CDATA[468 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6492166933,41.7589247317,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>STEINMETZ COLLEGE PREP HS (3030 N Mobile Ave)</name>
+			<description><![CDATA[143 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.783515233,41.9356335871,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>STEM ACADEMY (1522 W Fillmore St)</name>
+			<description><![CDATA[203 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6649691329,41.8685758787,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>STEVENSON (8010 S Kostner Ave)</name>
+			<description><![CDATA[67 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7316656847,41.7471068785,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1</styleUrl>
+			<name>STOCK (7507 W Birchwood Ave)</name>
+			<description><![CDATA[26 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.8141946546,42.0168916408,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>STONE (6239 N Leavitt St)</name>
+			<description><![CDATA[343 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6847927859,41.9953590511,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>STOWE (3444 W Wabansia Ave)</name>
+			<description><![CDATA[364 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7133175011,41.9119380787,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>SUDER (2022 W Washington Blvd)</name>
+			<description><![CDATA[277 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6776361121,41.8832145168,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>SULLIVAN HS (6631 N Bosworth Ave)</name>
+			<description><![CDATA[236 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6691921456,42.0026875581,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>SUMNER (4320 W 5th Ave)</name>
+			<description><![CDATA[185 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7335239513,41.870828378,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1</styleUrl>
+			<name>SUTHERLAND (10015 S Leavitt St)</name>
+			<description><![CDATA[37 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6768211725,41.71144507,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>SWIFT (5900 N Winthrop Ave)</name>
+			<description><![CDATA[381 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6582960797,41.98913906,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>TAFT HS (6530 W Bryn Mawr Ave)</name>
+			<description><![CDATA[118 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7915472489,41.9829609857,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>TALCOTT (1840 W Ohio St)</name>
+			<description><![CDATA[208 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6737227242,41.892404611,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>TALMAN (5450 S Talman Ave)</name>
+			<description><![CDATA[135 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6902608393,41.7940480503,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>TANNER (7350 S Evans Ave)</name>
+			<description><![CDATA[406 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6067910349,41.7606726347,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>TARKINGTON (3330 W 71st St)</name>
+			<description><![CDATA[108 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7064446481,41.7644070752,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>TAYLOR (9912 S Avenue H)</name>
+			<description><![CDATA[161 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5329707673,41.7154703752,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>TEAM HS (6201 S Stewart Ave)</name>
+			<description><![CDATA[144 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6330187908,41.7814849032,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>TELPOCHCALLI (2832 W 24th Blvd)</name>
+			<description><![CDATA[103 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6960058794,41.8479474317,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>THOMAS (3625 S Hoyne Ave)</name>
+			<description><![CDATA[141 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6775418498,41.827774913,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>THORP J (8914 S Buffalo Ave)</name>
+			<description><![CDATA[91 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5442799761,41.7333242376,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>THORP O (6024 W Warwick Ave)</name>
+			<description><![CDATA[92 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7776312953,41.948571311,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>TILDEN HS (4747 S Union Ave)</name>
+			<description><![CDATA[222 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6429664837,41.8075100708,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>TILL (6543 S Champlain Ave)</name>
+			<description><![CDATA[660 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6093572107,41.7754238432,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-6</styleUrl>
+			<name>TILTON (223 N Keeler Ave)</name>
+			<description><![CDATA[829 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.730566385,41.8841022407,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>TONTI (5815 S Homan Ave)</name>
+			<description><![CDATA[207 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.708179184,41.7875232289,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>TURNERDREW (9300 S Princeton Ave)</name>
+			<description><![CDATA[197 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6301644792,41.7256092153,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>TWAIN (5134 S Lotus Ave)</name>
+			<description><![CDATA[114 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7589284013,41.7990463967,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>UNIV OF CHGO CHTR  DONOGHUE (707 E 37th St)</name>
+			<description><![CDATA[281 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6085007807,41.8277260808,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>UNIV OF CHGO CHTR  NKO (1119 E 46th St)</name>
+			<description><![CDATA[81 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5987862682,41.811182866,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>UNIV OF CHGO CHTR  WOODLAWN (6420 S University Ave)</name>
+			<description><![CDATA[299 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5981139196,41.7781296975,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>UNIV OF CHGO CHTR  WOODSON (4444 S Evans Ave)</name>
+			<description><![CDATA[133 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.608425622,41.8135473037,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>UNO CHTR  DE LAS CASAS (1641 W 16th St)</name>
+			<description><![CDATA[153 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6679491694,41.8595040075,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>UNO CHTR  ESMERALDA SANTIAGO (2510 W Cortez St)</name>
+			<description><![CDATA[111 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6898956253,41.9003436344,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>UNO CHTR  FUENTES (2845 W Barry Ave)</name>
+			<description><![CDATA[143 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6995936516,41.9374757752,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>UNO CHTR  HOMAN ES (5050 S Homan Ave)</name>
+			<description><![CDATA[54 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7087967837,41.8010424134,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-0</styleUrl>
+			<name>UNO CHTR  MAJOR HECTOR PGARCIA (4248 W 47th St)</name>
+			<description><![CDATA[12 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7304668491,41.809170789,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>UNO CHTR  MARQUEZ (2916 W 47th St)</name>
+			<description><![CDATA[105 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6973940968,41.8083088233,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>UNO CHTR  NEAR WEST (2050 N Natchez Ave)</name>
+			<description><![CDATA[67 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7878304377,41.9179516791,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>UNO CHTR  PAZ (2651 W 23rd St)</name>
+			<description><![CDATA[290 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6925508987,41.8500354123,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>UNO CHTR  PFC OMAR ETORRES (4248 W 47th St)</name>
+			<description><![CDATA[77 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7304504432,41.8081998058,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>UNO CHTR  ROGERS PARK (7416 N Ridge Blvd)</name>
+			<description><![CDATA[299 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.684405682,42.0164758811,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>UNO CHTR  SANDRA CISNEROS (2744 W Pershing Rd)</name>
+			<description><![CDATA[119 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6939961617,41.8228837407,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-0</styleUrl>
+			<name>UNO CHTR  SOCCER HS (5025 S Saint Louis Ave)</name>
+			<description><![CDATA[17 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7110249843,41.8017622454,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1</styleUrl>
+			<name>UNO CHTR  SPC DANIEL ZIZUMBO (4248 W 47th St)</name>
+			<description><![CDATA[41 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7304951171,41.8101347865,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>UNO CHTR  TAMAYO (5135 S California Ave)</name>
+			<description><![CDATA[156 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.693861636,41.799930186,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>UNO CHTR 15  BRIGHTON PARK (4420 S Fairfield Ave)</name>
+			<description><![CDATA[250 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6932383845,41.8131094446,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>UPLIFT HS (900 W Wilson Ave)</name>
+			<description><![CDATA[624 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.652473346,41.9655474611,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>URBAN PREP CHTR  BRONZEVILLE (521 E 35th St)</name>
+			<description><![CDATA[290 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6136286474,41.8311175303,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>URBAN PREP CHTR  ENGLEWOOD (6201 S Stewart Ave)</name>
+			<description><![CDATA[134 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6343566919,41.7814978158,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>URBAN PREP CHTR  WEST (1326 W 14th Pl)</name>
+			<description><![CDATA[106 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6601065401,41.8625400189,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>VANDERPOEL (9510 S Prospect Ave)</name>
+			<description><![CDATA[79 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6655586219,41.7208170336,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>VAUGHN HS (4355 N Linder Ave)</name>
+			<description><![CDATA[133 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7646631731,41.960363796,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-1</styleUrl>
+			<name>VICK (2554 W 113th St)</name>
+			<description><![CDATA[49 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6856765975,41.6881908372,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>VOISE HS (231 N Pine Ave)</name>
+			<description><![CDATA[245 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7619163731,41.8859932865,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>VOLTA (4950 N Avers Ave)</name>
+			<description><![CDATA[238 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7246052243,41.9716340009,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>VON LINNE (3221 N Sacramento Ave)</name>
+			<description><![CDATA[86 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7026346744,41.9400092791,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>VON STEUBEN HS (5039 N Kimball Ave)</name>
+			<description><![CDATA[115 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7133862533,41.9731850477,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>WACKER (9746 S Morgan St)</name>
+			<description><![CDATA[81 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6480443235,41.7161932952,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>WADSWORTH (6650 S Ellis Ave)</name>
+			<description><![CDATA[304 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6010181122,41.7734778974,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>WALSH (2015 S Peoria St)</name>
+			<description><![CDATA[94 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6480861747,41.8548357469,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>WARD J (2701 S Shields Ave)</name>
+			<description><![CDATA[122 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6353557886,41.8439800885,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>WARD L (646 N Lawndale Ave)</name>
+			<description><![CDATA[531 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7187972928,41.8932356097,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>WARREN (9239 S Jeffery Ave)</name>
+			<description><![CDATA[120 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5753525491,41.7267629086,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>WASHINGTON HS (3535 E 114th St)</name>
+			<description><![CDATA[90 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5375703001,41.6881369355,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>WASHINGTON G (3611 E 114th St)</name>
+			<description><![CDATA[77 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5360152993,41.6881314833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>WASHINGTON H (9130 S University Ave)</name>
+			<description><![CDATA[247 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5962566161,41.7285341421,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>WATERS (4540 N Campbell Ave)</name>
+			<description><![CDATA[169 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6913325114,41.9643654036,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>WEBSTER (4055 W Arthington St)</name>
+			<description><![CDATA[331 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7275243748,41.8699158575,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>WELLS HS (936 N Ashland Ave)</name>
+			<description><![CDATA[245 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6674828687,41.8989947073,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>WELLS I (249 E 37th St)</name>
+			<description><![CDATA[118 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.61977966,41.8273552659,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>WENTWORTH (1340 W 71st St)</name>
+			<description><![CDATA[480 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6582048359,41.7650758958,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>WEST PARK (1425 N Tripp Ave)</name>
+			<description><![CDATA[274 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7324430962,41.9069072045,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>WEST RIDGE (6700 N Whipple St)</name>
+			<description><![CDATA[73 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7059172054,42.002958994,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>WESTCOTT (409 W 80th St)</name>
+			<description><![CDATA[278 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6347505161,41.7488682248,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>WHISTLER (11533 S Ada St)</name>
+			<description><![CDATA[244 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6553838216,41.6839070094,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>WHITE (1136 W 122nd St)</name>
+			<description><![CDATA[89 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6505385419,41.6723094061,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>WHITNEY (2815 S Komensky Ave)</name>
+			<description><![CDATA[325 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7255456424,41.8400804266,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>WHITTIER (1900 W 23rd St)</name>
+			<description><![CDATA[203 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6733916546,41.8504808864,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-0</styleUrl>
+			<name>WILDWOOD (6950 N Hiawatha Ave)</name>
+			<description><![CDATA[17 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7783448617,42.0074906693,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>WILLIAMS D (4934 S Wabash Ave)</name>
+			<description><![CDATA[147 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6250299802,41.8061175965,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>WINNIE MANDELA HS (7847 S Jeffery Blvd)</name>
+			<description><![CDATA[442 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5758830347,41.7520158812,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>WOODLAWN (6657 S Kimbark Ave)</name>
+			<description><![CDATA[237 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.594391996,41.7733655311,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>WOODSON (4414 S Evans Ave)</name>
+			<description><![CDATA[141 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6084187686,41.8144987953,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-0</styleUrl>
+			<name>WORLD LANGUAGE HS (3120 S Kostner Ave)</name>
+			<description><![CDATA[13 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7352922169,41.8343966166,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>YATES (1839 N Richmond St)</name>
+			<description><![CDATA[236 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.700280313,41.9150385468,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>YCCS CHTR  ADDAMS (1814 S Union Ave)</name>
+			<description><![CDATA[146 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6448879756,41.857207856,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>YCCS CHTR  ASPIRA PANTOJA (3121 N Pulaski Rd)</name>
+			<description><![CDATA[101 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7271373598,41.9381866027,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>YCCS CHTR  ASSOCIATION HOUSE (1116 N Kedzie Ave)</name>
+			<description><![CDATA[185 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7068598834,41.9015724065,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>YCCS CHTR  AUSTIN CAREER (5352 W Chicago Ave)</name>
+			<description><![CDATA[296 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7602211754,41.8949763902,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>YCCS CHTR  CAMPOS (2739 W Division St)</name>
+			<description><![CDATA[250 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6960060227,41.9028496968,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>YCCS CHTR  CCA ACADEMY (1231 S Pulaski Rd)</name>
+			<description><![CDATA[664 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7236621719,41.864943352,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>YCCS CHTR  CHATHAM (9035 S Langley Ave)</name>
+			<description><![CDATA[278 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6069799089,41.7301313843,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>YCCS CHTR  COMMUNITY ACADEMY (3424 S State St)</name>
+			<description><![CDATA[197 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6267814695,41.832072058,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-6</styleUrl>
+			<name>YCCS CHTR  COMMUNITY SERVICE (4651 W Madison St)</name>
+			<description><![CDATA[1023 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.742538899,41.8804471868,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>YCCS CHTR  HOUSTON (4701 S King Dr)</name>
+			<description><![CDATA[590 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6164772986,41.8093310904,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-6</styleUrl>
+			<name>YCCS CHTR  INNOVATIONS (17 N. State St.)</name>
+			<description><![CDATA[1335 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6277341453,41.8830471712,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>YCCS CHTR  LATINO YOUTH (2001 S California Ave)</name>
+			<description><![CDATA[165 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6954300137,41.8546646552,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>YCCS CHTR  MCKINLEY (2920 S Wabash Ave)</name>
+			<description><![CDATA[323 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6253307702,41.8413311667,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>YCCS CHTR  OLIVE HARVEY (10001 S Woodlawn Ave)</name>
+			<description><![CDATA[55 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.592333202,41.7129220998,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>YCCS CHTR  SULLIVAN (8164 S South Chicago Ave)</name>
+			<description><![CDATA[142 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.5784916699,41.7462865694,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-6</styleUrl>
+			<name>YCCS CHTR  TRUMAN (1145 W Wilson Ave)</name>
+			<description><![CDATA[930 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6592392899,41.9652948163,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>YCCS CHTR  VIRTUAL (1900 W Van Buren St)</name>
+			<description><![CDATA[198 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6741384013,41.8763167271,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-2</styleUrl>
+			<name>YCCS CHTR  WEST TOWN (500 N Sacramento Blvd)</name>
+			<description><![CDATA[62 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7020528007,41.890803121,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-4</styleUrl>
+			<name>YCCS CHTR  WESTSIDE HOLISTIC (4909 W Division St)</name>
+			<description><![CDATA[378 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7488102893,41.9022400317,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>YCCS CHTR  YOUTH DEVELOPMENT (7836 S Union Ave)</name>
+			<description><![CDATA[545 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6417311869,41.7513771115,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>YORK HS (2700 S California Ave)</name>
+			<description><![CDATA[147 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6952610155,41.8425333478,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-5</styleUrl>
+			<name>YOUNG (1434 N Parkside Ave)</name>
+			<description><![CDATA[462 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7671428455,41.9067905736,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>YOUNG HS (211 S Laflin St)</name>
+			<description><![CDATA[164 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6642333428,41.8786025326,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>YOUNG WOMENS LEADERSHIP CHTR (2641 S Calumet Ave)</name>
+			<description><![CDATA[164 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.6187237962,41.8445438056,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-3</styleUrl>
+			<name>ZAPATA (2728 S Kostner Ave)</name>
+			<description><![CDATA[130 crimes nearby (in 2014)]]></description>
+			<Point>
+				<coordinates>-87.7343133242,41.8413938034,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-0'>
+			<IconStyle>
+				<color>ff008800</color>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1'>
+			<IconStyle>
+				<color>ff00ff00</color>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-2'>
+			<IconStyle>
+				<color>ff00ff88</color>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-3'>
+			<IconStyle>
+				<color>ff00ffff</color>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-4'>
+			<IconStyle>
+				<color>ff0088ff</color>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-5'>
+			<IconStyle>
+				<color>ff0000ff</color>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-6'>
+			<IconStyle>
+				<color>ff000088</color>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/959-wht-circle-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

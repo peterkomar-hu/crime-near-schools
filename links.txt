@@ -1,0 +1,8 @@
+Chicago Public School location data:
+https://data.cityofchicago.org/Education/Chicago-Public-Schools-School-Locations-2014-2015-/3fhj-xtn5
+
+Chicago Crime data:
+https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2
+
+Map link:
+https://www.google.com/maps/d/edit?mid=z0f0NmLaLfg0.kZIHoM3mJsnk
